@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
     "@workspace/ui": "workspace:*",
     "better-auth": "^1.3.18",
     "database": "workspace:*",
