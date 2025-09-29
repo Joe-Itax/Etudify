@@ -1,3 +1,3 @@
-export { prisma, Prisma } from "./client.js";
-export { auth } from "./lib/auth.js";
+export { prisma, Prisma } from "./client";
+export { auth } from "./lib/auth";
 export * from "./generated/prisma/client.js";

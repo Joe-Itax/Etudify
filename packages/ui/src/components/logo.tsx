@@ -28,13 +28,13 @@ export default function Logo({ className = "#00093c" }: LogoProps) {
             y2="406.15"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0" stop-color="#00a1f3" />
-            <stop offset=".07" stop-color="#0f92f3" />
-            <stop offset=".29" stop-color="#4165f3" />
-            <stop offset=".51" stop-color="#6841f3" />
-            <stop offset=".7" stop-color="#8428f3" />
-            <stop offset=".87" stop-color="#9518f3" />
-            <stop offset="1" stop-color="#9b13f3" />
+            <stop offset="0" stopColor="#00a1f3" />
+            <stop offset=".07" stopColor="#0f92f3" />
+            <stop offset=".29" stopColor="#4165f3" />
+            <stop offset=".51" stopColor="#6841f3" />
+            <stop offset=".7" stopColor="#8428f3" />
+            <stop offset=".87" stopColor="#9518f3" />
+            <stop offset="1" stopColor="#9b13f3" />
           </linearGradient>
         </defs>
         <path
